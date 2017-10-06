@@ -25,7 +25,7 @@
         overflow-y: auto;
 
         .accordion {
-            padding-top: 65px;
+            padding-top: 55px;
             background-color: $blue;
 
             li {
@@ -73,6 +73,10 @@
                         padding-left: 95px; 
                         border-bottom: 1px solid rgba(120, 129, 149, 0.1);
                     }
+                }
+
+                .accordion-icon {
+                    margin-right: 15px;
                 }
                             
             }
